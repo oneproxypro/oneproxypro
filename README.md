@@ -1,6 +1,6 @@
 # OxyPoxy - Datacenter Proxies From a New Provider
 
-We are thrilled to introduce you to our new proxy service, [**OxyProxy**](https://oxyprohy.pro)! We offer high-speed and reliable proxy servers located in data centers across the globe, designed to meet a wide array of your requirements.
+We are thrilled to introduce you to our new proxy service, [**OxyProxy**](https://oxyproxy.pro)! We offer high-speed and reliable proxy servers located in data centers across the globe, designed to meet a wide array of your requirements.
 
 ## Why Should You Choose OxyProxy?
 

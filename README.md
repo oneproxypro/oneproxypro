@@ -1,6 +1,6 @@
 ![OnePoxy - Datacenter Proxies From a New Provider](https://oneproxy.pro/wp-content/uploads/2024/03/1200x630_1.png)
 
-# OxyPoxy - Datacenter Proxies From a New Provider
+# OnePoxy - Datacenter Proxies From a New Provider
 
 We are thrilled to introduce you to our new proxy service, [**OneProxy**](https://oneproxy.pro)! We offer high-speed and reliable proxy servers located in data centers across the globe, designed to meet a wide array of your requirements.
 

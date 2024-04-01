@@ -1,14 +1,14 @@
-![OxyPoxy - Datacenter Proxies From a New Provider](https://oxyproxy.pro/wp-content/uploads/2023/08/1200x630.png)
+![OxyPoxy - Datacenter Proxies From a New Provider](https://oneproxy.pro/wp-content/uploads/2023/08/1200x630.png)
 
 # OxyPoxy - Datacenter Proxies From a New Provider
 
-We are thrilled to introduce you to our new proxy service, [**OxyProxy**](https://oxyproxy.pro)! We offer high-speed and reliable proxy servers located in data centers across the globe, designed to meet a wide array of your requirements.
+We are thrilled to introduce you to our new proxy service, [**OneProxy**](https://oneproxy.pro)! We offer high-speed and reliable proxy servers located in data centers across the globe, designed to meet a wide array of your requirements.
 
-## Why Should You Choose OxyProxy?
+## Why Should You Choose OneProxy?
 
-Here are compelling reasons why OxyProxy stands out as your optimal choice for proxy services:
+Here are compelling reasons why OneProxy stands out as your optimal choice for proxy services:
 
-- **Unlimited Traffic Across All Plans:** With OxyProxy, you don't have to worry about data usage restrictions. Our plans come with unlimited bandwidth to support your demanding tasks.
+- **Unlimited Traffic Across All Plans:** With OneProxy, you don't have to worry about data usage restrictions. Our plans come with unlimited bandwidth to support your demanding tasks.
 - **Competitive Pricing:** Our pricing starts as low as 6 cents per IP address, making us one of the most affordable options in the market.
 - **Instant Access Post-Payment:** Once your payment is confirmed, we offer immediate access to our proxy servers, so you can get started right away.
 - **Protocol Versatility:** We support multiple protocols including HTTP, HTTPS, SOCKS 4/5, and UDP to cater to a range of use-cases.
@@ -21,11 +21,11 @@ Here are compelling reasons why OxyProxy stands out as your optimal choice for p
 
 ### Contact Details
 
-Website: https://oxyproxy.pro
-E-mail: support@oxyproxy.pro
-For further inquiries, you can either post your questions in this forum thread or reach out to us via our support tickets at https://dashboard.oxyproxy.pro/contact.php.
+Website: https://oneproxy.pro
+E-mail: support@oneproxy.pro
+For further inquiries, you can either post your questions in this forum thread or reach out to us via our support tickets at https://dashboard.oneproxy.pro/contact.php.
 
 Thank you for your attention, and we look forward to serving your proxy needs!
 
 Best regards,
-The OxyProxy Team
+The OneProxy Team

@@ -1,4 +1,4 @@
-![OxyPoxy - Datacenter Proxies From a New Provider](https://oneproxy.pro/wp-content/uploads/2023/08/1200x630.png)
+![OxyPoxy - Datacenter Proxies From a New Provider](https://oneproxy.pro/wp-content/uploads/2023/08/1200x630-1.png)
 
 # OxyPoxy - Datacenter Proxies From a New Provider
 
